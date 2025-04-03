@@ -15,7 +15,7 @@
 
 ## Getting Started
 
-To begin your journey in creating AI agents with IBM's WatsonX Agent Lab, start with [Module 1](#module-1-introduction-to-ai-agents). Each module builds on the previous one, guiding you from foundational concepts to advanced techniques and deployment.
+To begin your journey in creating AI agents with IBM's WatsonX Agent Lab, start with [Module 1](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module1.md). Each module builds on the previous one, guiding you from foundational concepts to advanced techniques and deployment.
 
 
 ## License
