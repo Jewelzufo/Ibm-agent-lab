@@ -1,8 +1,3 @@
-
-This repository aims to explain the basics of Agent Lab
-
-# Table of Contents for Repository README
-
 # Tutorial: Creating Your First AI Agent with IBM's WatsonX Agent Lab
 
 ## Table of Contents
