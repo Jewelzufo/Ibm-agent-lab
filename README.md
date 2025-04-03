@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-1. [Module 1: Introduction to AI Agents](#module-1-introduction-to-ai-agents)
-2. [Module 2: Understanding IBM's WatsonX Platform](#module-2-understanding-ibms-watsonx-platform)
-3. [Module 3: Setting Up Your Environment](#module-3-setting-up-your-environment)
-4. [Module 4: Fundamentals of Agent Development](#module-4-fundamentals-of-agent-development)
-5. [Module 5: Creating Your First Agent in Agent Lab](#module-5-creating-your-first-agent-in-agent-lab)
-6. [Module 6: Adding Tools to Your Agent](#module-6-adding-tools-to-your-agent)
-7. [Module 7: Customizing Agent Behavior](#module-7-customizing-agent-behavior)
-8. [Module 8: Testing and Debugging](#module-8-testing-and-debugging)
-9. [Module 9: Deploying Your Agent](#module-9-deploying-your-agent)
-10. [Module 10: Best Practices for Agent Development](#module-10-best-practices-for-agent-development)
+1. [Module 1: Introduction to AI Agents](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module1.md)
+2. [Module 2: Understanding IBM's WatsonX Platform](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module2.md)
+3. [Module 3: Setting Up Your Environment](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module3.md)
+4. [Module 4](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module4.md)
+5. [Module 5: Creating Your First Agent in Agent Lab](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module5.md)
+6. [Module 6: Adding Tools to Your Agent](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module6.md)
+7. [Module 7: Customizing Agent Behavior](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module7.md)
+8. [Module 8: Testing and Debugging](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module8.md)
+9. [Module 9: Deploying Your Agent](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module9.md)
+10. [Module 10: Best Practices for Agent Development](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module10.md)
 11. [Module 11: Advanced Topics (Optional)](#module-11-advanced-topics-optional)
 12. [Module 12: Resources and Next Steps](#module-12-resources-and-next-steps)
 
