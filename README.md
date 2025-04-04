@@ -1,5 +1,8 @@
 # Tutorial: Creating Your First AI Agent with IBM's WatsonX Agent Lab
 
+![Tutorial Image](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/agent%20tutorial%20image.png?raw=true)
+
+
 ## Table of Contents
 
 1. [Module 1: Introduction to AI Agents](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module1.md)
@@ -12,6 +15,7 @@
 8. [Module 8: Testing and Debugging](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module8.md)
 9. [Module 9: Deploying Your Agent](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module9.md)
 10. [Module 10: Best Practices for Agent Development](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module10.md)
+
 
 ## Getting Started
 
