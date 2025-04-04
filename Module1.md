@@ -1,4 +1,6 @@
 # Module 1: Introduction to AI Agents
+![Image Description](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/ChatGPT%20Image%20Apr%203,%202025,%2011_07_10%20PM.png?raw=true)
+
 
 ## What is an AI Agent?
 
