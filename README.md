@@ -33,3 +33,8 @@ Special thanks to the IBM WatsonX team and the open-source community for their c
 ---
 
 **Happy Learning!** 
+
+**Created by:** Julian A. Gonzalez, 4/3/2025
+
+
+[Connect on LinkedIn!](www.linkedin.com/in/julian-gonzalez-7b533129a)
