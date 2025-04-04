@@ -8,7 +8,7 @@
 1. [Module 1: Introduction to AI Agents](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module1.md)
 2. [Module 2: Understanding IBM's WatsonX Platform](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module2.md)
 3. [Module 3: Setting Up Your Environment](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module3.md)
-4. [Module 4](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module4.md)
+4. [Module 4: Fundamentals of Agent Development](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module4.md)
 5. [Module 5: Creating Your First Agent in Agent Lab](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module5.md)
 6. [Module 6: Adding Tools to Your Agent](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module6.md)
 7. [Module 7: Customizing Agent Behavior](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module7.md)
