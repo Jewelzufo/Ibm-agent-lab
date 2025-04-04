@@ -1,5 +1,7 @@
 # Module 2: Understanding IBM's WatsonX Platform
 
+![Image](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/ChatGPT%20Image%20Apr%203,%202025,%2011_07_28%20PM.png?raw=true)
+
 ## Overview of the IBM WatsonX Ecosystem
 
 **IBM WatsonX** is a comprehensive AI and data platform designed to empower businesses with advanced AI capabilities. It integrates various tools and services to facilitate the development, deployment, and management of AI applications. WatsonX is built on an open architecture, allowing seamless integration with other IBM services and third-party tools.
