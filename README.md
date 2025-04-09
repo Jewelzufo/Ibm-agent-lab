@@ -13,7 +13,8 @@
 6. [Module 6: Adding Tools to Your Agent](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module6.md)
 7. [Module 7: Customizing Agent Behavior](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module7.md)
 8. [Module 8: Testing and Debugging](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module8.md)
-9. [Glossary](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Glossary.md)
+9. [Module 9: Deploying Your Agent]((https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/module9.md)
+10. [Glossary](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Glossary.md)
 
 
 ## Getting Started
@@ -33,7 +34,7 @@ Special thanks to the IBM WatsonX team and the open-source community for their c
 
 **Happy Learning!** 
 
-**Created by:** Julian A. Gonzalez, 4/3/2025
+**Created by:** Julian A. Gonzalez,IBM Champion 2025
 
 
 [Connect on LinkedIn!](www.linkedin.com/in/julian-gonzalez-7b533129a)
