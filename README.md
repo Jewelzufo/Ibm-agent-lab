@@ -13,7 +13,7 @@
 6. [Module 6: Adding Tools to Your Agent](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module6.md)
 7. [Module 7: Customizing Agent Behavior](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module7.md)
 8. [Module 8: Testing and Debugging](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module8.md)
-9. [Module 9: Deploying Your Agent](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Module9.md)
+9. [Glossary](https://github.com/Jewelzufo/Ibm-agent-lab/blob/main/Glossary.md)
 
 
 ## Getting Started
