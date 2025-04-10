@@ -74,5 +74,5 @@
 
 ---
 
-**Previous Module:** [Module 4: Fundamentals of Agent Development](#)  
-**Next Module:** [Module 6: Adding Tools to Your Agent](#)
+**Previous Module:** [Module 4: Fundamentals of Agent Development](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module4.md)  
+**Next Module:** [Module 6: Adding Tools to Your Agent](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module6.md)
