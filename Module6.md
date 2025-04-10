@@ -59,5 +59,5 @@ Tools extend the functionality of your AI agent by enabling it to perform specif
 
 ---
 
-**Previous Module:** [Module 5: Creating Your First Agent in Agent Lab](#)  
-**Next Module:** [Module 7: Customizing Agent Behavior](#)
+**Previous Module:** [Module 5: Creating Your First Agent in Agent Lab](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module5.md)  
+**Next Module:** [Module 7: Customizing Agent Behavior](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module7.md)
