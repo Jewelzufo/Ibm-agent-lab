@@ -57,5 +57,5 @@ Before you can start building AI agents with Agent Lab, you need to set up your 
 
 ---
 
-**Previous Module:** [Module 1: Introduction to AI Agents](#)  
-**Next Module:** [Module 3: Setting Up Your Environment](#)
+**Previous Module:** [Module 1: Introduction to AI Agents](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module1.md)
+**Next Module:** [Module 3: Setting Up Your Environment](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module3.md)
