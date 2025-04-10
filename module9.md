@@ -98,5 +98,4 @@
 
 ---
 
-**Previous Module:** [Module 8: Testing and Debugging](#)  
-**Next Module:** [Glossary: Key Terms](#)
+**Previous Module:** [Module 8: Testing and Debugging](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module8.md)  
