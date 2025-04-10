@@ -70,5 +70,5 @@ This pattern enables agents to handle multi-step tasks and adapt to dynamic envi
 
 ---
 
-**Previous Module:** [Module 3: Setting Up Your Environment](#)  
-**Next Module:** [Module 5: Creating Your First Agent in Agent Lab](#)
+**Previous Module:** [Module 3: Setting Up Your Environment](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module3.md)  
+**Next Module:** [Module 5: Creating Your First Agent in Agent Lab](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module5.md)
