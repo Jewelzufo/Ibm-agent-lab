@@ -73,5 +73,5 @@ The Agent Lab interface is designed for intuitive agent development. Key compone
 
 ---
 
-**Previous Module:** [Module 2: Understanding IBM's WatsonX Platform](#)  
-**Next Module:** [Module 4: Fundamentals of Agent Development](#)
+**Previous Module:** [Module 2: Understanding IBM's WatsonX Platform](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module2.md)  
+**Next Module:** [Module 4: Fundamentals of Agent Development](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module4.md)
