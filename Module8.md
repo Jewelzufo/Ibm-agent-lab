@@ -73,5 +73,5 @@
 
 ---
 
-**Previous Module:** [Module 7: Customizing Agent Behavior](#)  
-**Next Module:** [Module 9: Deploying Your Agent](#)
+**Previous Module:** [Module 7: Customizing Agent Behavior](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module7.md)  
+**Next Module:** [Module 9: Deploying Your Agent](https://github.com/Jewelzufo/Ibm-agent-lab/blob/8f55ea5328fc42340c0a57cadc14ec47a164d172/Module9.md)
