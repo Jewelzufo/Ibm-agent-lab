@@ -45,4 +45,4 @@ AI agents are used in a variety of domains, including:
 
 ---
 
-**Next Module:** [Module 2: Understanding IBM's WatsonX Platform](#)
+**Next Module:** [Module 2: Understanding IBM's WatsonX Platform](https://github.com/Jewelzufo/Ibm-agent-lab/blob/1a5a4b1fa62395092414fe96588a287da68ed7dc/Module2.md)
